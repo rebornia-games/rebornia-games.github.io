@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40mm"
+   height="40mm"
+   viewBox="0 0 40 40"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="furnado.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="73.450717"
+     inkscape:cy="104.82858"
+     inkscape:window-width="3840"
+     inkscape:window-height="2130"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.999997,-35.000003)">
+    <path
+       id="rect2-2-7-6"
+       style="fill:#dc322f;stroke-width:1.87089"
+       transform="rotate(-45)"
+       d="m 17.677668,88.388344 h 7.071067 c 0,0 0,0 0,0 v 7.071068 c 0,0 0,0 0,0 h -7.071067 c 0,0 0,0 0,0 z m -7.071067,7.071068 h 7.071068 c 0,0 0,0 0,0 v 7.071068 c 0,0 0,0 0,0 h -7.071068 c 0,0 0,0 0,0 z m 7.071067,0 h 7.071067 c 0,0 0,0 0,0 v 7.071068 c 0,0 0,0 0,0 h -7.071067 c 0,0 0,0 0,0 z M 3.5355334,88.388344 h -7.0710678 c 0,0 0,0 0,0 v -7.071068 c 0,0 0,0 0,0 h 7.0710678 c 0,0 0,0 0,0 z m 4.6e-6,14.142146 h -7.0710679 c 0,0 0,0 0,0 v -7.071071 c 0,0 0,0 0,0 H 3.535538 c 0,0 0,0 0,0 z m 7.071065,-7.071071 H 3.5355349 c 0,0 0,0 0,0 v -7.071068 c 0,0 0,0 0,0 h 7.0710681 c 0,0 0,0 0,0 z M 24.748737,81.317284 H 17.67767 c 0,0 0,0 0,0 v -7.071068 c 0,0 0,0 0,0 h 7.071067 c 0,0 0,0 0,0 z m -7.071067,7.071067 h -7.071068 c 0,0 0,0 0,0 v -7.071067 c 0,0 0,0 0,0 h 7.071068 c 0,0 0,0 0,0 z M 10.606601,81.317276 H 3.535533 c 0,0 0,0 0,0 v -7.071068 c 0,0 0,0 0,0 h 7.071068 c 0,0 0,0 0,0 z m -7.0710676,0 h -7.0710678 c 0,0 0,0 0,0 v -7.071068 c 0,0 0,0 0,0 h 7.0710678 c 0,0 0,0 0,0 z" />
+  </g>
+</svg>
